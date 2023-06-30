@@ -11,3 +11,5 @@ drawbacks such a huge number of components, high size, expense, and complexity o
 of this project is to utilise a switched capacitance (SC) structure to get around the drawbacks of the
 current topologies. This project work involves the simulation and hardware implementation of switched
 Capacitor Step Up Single Phase 5 Level Inverter for PV applications.
+![A2BC_OUTWITHHARDWARE](https://github.com/nerddog07/single_phase_five_level_inverter/assets/81560033/dec09435-f7f7-4ec2-8816-d4cfc0c3b4cb)
+
